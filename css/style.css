@@ -167,6 +167,7 @@ body { margin: 0; padding: 0; }
 .tag-amber { background: #fef3c7; color: #b45309; }
 .tag-blue { background: #dbeafe; color: #1d4ed8; }
 .tag-green { background: #dcfce7; color: #15803d; }
+.tag-red { background: #fee2e2; color: #b91c1c; }
 .tag-pink { background: #fce7f3; color: #be185d; }
 .step-num { font-size: 12px; font-family: var(--font-mono); color: var(--faint); }
 .step-card h2 { margin: 4px 0 0; font-size: 18px; font-weight: 600; line-height: 1.3; color: var(--fg); }
